@@ -1,5 +1,5 @@
 # MIU_Spring_2019
-Repository for materials of my Spring-2019 trimester CSE-437, and CSE-472 courses in MIU
+Repository for resource materials of my CSE-437, and CSE-472 courses in MIU Spring-2019 trimester
 
 ## Announcement <br />
 * [19/01/2019]: First class test of CSE-472 course will be held in 23/01/2019 <a href="./CSE-472/introduction_to_satellite.pdf">Syllabus</a>
@@ -9,3 +9,5 @@ Repository for materials of my Spring-2019 trimester CSE-437, and CSE-472 course
 * [12/02/2019]: Final date of submitting project milestone is 13/02/2019. <a href="https://github.com/Mahedi-61/MIU_Spring_2019/blob/master/CSE-437/coding_assignment_1.pdf">Project Instructions</a>
 * [18/02/2019]: There will be no class in 19/02/2019 :blush:. Class test of CSE-437 will be held in 20/02/2019 :cry:<a href="https://github.com/Mahedi-61/MIU_Spring_2019/blob/master/notice/18_02.JPEG"> Notice</a>
 * [12/03/2019]: Due to unavoidable circumstances all of my 13/03/19 date classes has been rescinded. 
+* [27/03/2019]: CSE-472 course mid-term result has been published. Marks Distribution: Max: 19, Mean: 10.9, Min:3 <br />
+CSE-437 course mid-term result has been published. Marks Distribution: Max: 28, Mean: 17.97, Min:7
