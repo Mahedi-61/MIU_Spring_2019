@@ -10,4 +10,4 @@ Repository for resource materials of my CSE-437, and CSE-472 courses in MIU Spri
 * [18/02/2019]: There will be no class in 19/02/2019 :blush:. Class test of CSE-437 will be held in 20/02/2019 :cry:<a href="https://github.com/Mahedi-61/MIU_Spring_2019/blob/master/notice/18_02.JPEG"> Notice</a>
 * [12/03/2019]: Due to unavoidable circumstances all of my 13/03/19 date classes has been rescinded. 
 * [27/03/2019]: Mid-term result of has been published. Marks Distribution for CSE-472: Max = 19, Mean = 10.9, Min = 3 <br /> Marks Distribution for CSE-437: Max = 28, Mean = 17.97, Min = 7
-* [28/03/2019]: An Extra class for CSE-437 couse will he held in next Saturday (30/03/2019), 2:00 pm. 
+* [28/03/2019]: An extra class for CSE-437 couse will be held in next Saturday (30/03/2019), 2:00 pm. 
