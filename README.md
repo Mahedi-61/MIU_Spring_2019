@@ -12,3 +12,5 @@ Repository for resource materials of my CSE-437, and CSE-472 courses in MIU Spri
 * [27/03/2019]: Mid-term result of has been published. Marks Distribution for CSE-472: Max = 19, Mean = 10.9, Min = 3 <br /> Marks Distribution for CSE-437: Max = 28, Mean = 17.97, Min = 7
 * [28/03/2019]: An extra class for CSE-437 couse will be held in next Saturday (30/03/2019), 2:00 pm. 
 * [01/04/2019]: Class Test marks have been uploaded. see the exam folder.
+* [04/04/2019]: Second Class Test and presentation for the coding assignment of CSE-437 course will be held in 09/04/2019.
+
