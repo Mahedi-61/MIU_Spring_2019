@@ -14,4 +14,4 @@ Repository for resource materials of my CSE-437, and CSE-472 courses in MIU Spri
 * [01/04/2019]: Class Test marks have been uploaded. see the exam folder.
 * [04/04/2019]: Second Class Test and presentation for the coding assignment of the CSE-437 course will be held in 09/04/2019.
 * [04/04/2019]: Lab Quiz test for the CSE-472 course will be held in 10/04/2019. <a href="https://github.com/Mahedi-61/MIU_Spring_2019/tree/master/CSE-472/lab">Syllabus</a>
-
+* [06/04/2019]: Materials for final exam of CSE-472 course: <a href="https://github.com/Mahedi-61/MIU_Spring_2019/blob/master/CSE-472/wireless_communication.pdf">wireless_communication</a>, <a href="https://github.com/Mahedi-61/MIU_Spring_2019/blob/master/CSE-472/digital_communication.pdf"> digital_communications</a>, and  <a href="https://github.com/Mahedi-61/MIU_Spring_2019/blob/master/CSE-472/telecommunications.pdf"> telecommunications</a>.
